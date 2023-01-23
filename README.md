@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paul Enascut, senior .NET Full-Stack developer with 6+ years of experience
+- 👋 Hi, I’m Paul Enascut, senior .NET Full-Stack developer with 8+ years of experience
 - 👀 I’m interested in find solutions to various problems using .NET as main stack.
 - 🌱 I’m currently learning Machine Learning and their impact over business needs.
 - 💞️ I’m looking forward for freelancing projects.
